@@ -29,7 +29,6 @@
 			<ul class="flex sm:gap-2 lg:gap-4">
 				<li><a class="px-3 py-2" href="/" target="_self">Inicio</a></li>
 				<li><a class="px-3 py-2" href="/posts" target="_self">Artículos</a></li>
-				<li><a class="px-3 py-2" href="/atom" target="_self">Fuente</a></li>
 			</ul>
 		</div>
 	</nav>
